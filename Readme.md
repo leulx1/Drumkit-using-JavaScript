@@ -64,7 +64,7 @@ Don't forget to give the project a star! Thanks again!
 
 ### Contact
 
-Email [LeulTsehaye](leultsehaye123@gmail.com)
+Email-[LeulTsehaye](leultsehaye123@gmail.com)
 
 Github-[@leulx1](https://github.com/leulx1)
 
