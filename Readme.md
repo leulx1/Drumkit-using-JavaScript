@@ -25,13 +25,13 @@ Welcome to the Drumkit Web Application repository! This project is a fun, intera
 To set up this project locally, follow these steps:
 
 1. Clone the repository:
-    ```bash
-    git clone https://github.com/leulx1/Drumkit-using-JavaScript.git
-    ```
+   ```bash
+   git clone https://github.com/leulx1/Drumkit-using-JavaScript.git
+   ```
 2. Navigate to the project directory:
-    ```bash
-    cd drumkit
-    ```
+   ```bash
+   cd drumkit
+   ```
 3. Open the `Home.html` file in your browser.
 
 No additional installation is required, as all the dependencies are included within the project files.
@@ -46,6 +46,7 @@ Using the Drumkit is straightforward:
 The interface is intuitive, with each drum pad labeled with the key that triggers it.
 
 ## Screenshoot
+
 <img src="./Screenshoot/img.JPG">
 
 ## Contributing
@@ -63,7 +64,7 @@ Don't forget to give the project a star! Thanks again!
 
 ### Contact
 
-Email [LeulTsehaye] (leultsehaye123@gmail.com)
+Email [LeulTsehaye](leultsehaye123@gmail.com)
 
 Github-[@leulx1](https://github.com/leulx1)
 
