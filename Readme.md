@@ -72,4 +72,4 @@ Project Link: https://github.com/leulx1/Drumkit-using-JavaScript.git
 
 ### Acknowledgments
 
-First of all thankyou god, and Thanks for this wonderful website([freecodecamp](https://freecodecamp.org)) for giving me this wonderful project.
+Thankyou god for showing me the way to do this project
